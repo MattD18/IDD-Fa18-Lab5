@@ -33,6 +33,8 @@ Include here:
 
 2. `.stl` or `.svg` files for your "bopper" — if you use some other technique, include the respective supporting material.
 
+![Bopper Close-Up](https://github.com/MattD18/IDD-Fa18-Lab5/blob/master/IMG_2441.JPG)
+
 ![Bopper Design File](https://github.com/MattD18/IDD-Fa18-Lab5/blob/master/bopper.ai)
 
 3. At least one photo of your useless box taken in the MakerLab's Portable Photo Studio (or somewhere else, but of similar quality).
