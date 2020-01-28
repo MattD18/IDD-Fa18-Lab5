@@ -18,8 +18,6 @@
 
 ![Circuit](https://github.com/MattD18/IDD-Fa18-Lab5/blob/master/IMG_2431.JPG)
 
-![Code](https://github.com/MattD18/IDD-Fa18-Lab5/blob/master/useless_box.ino)
-
 ## Putting it All Together
 
 1. Arduino source code is [here](https://github.com/MattD18/IDD-Fa18-Lab5/blob/master/useless_box.ino)
