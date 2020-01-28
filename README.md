@@ -4,19 +4,19 @@
 
 **a. Custom mount to hold servo motor.**
 
-![Servo Mount](https://github.com/MattD18/IDD-Fa18-Lab5/blob/master/IMG_2429.JPG)
+![Servo Mount](https://github.com/MattD18/IDD-Fa18-Lab5/blob/master/images/IMG_2429.png)
 
 ## Laser Cutting
 
 **b. Useless box shell was laster cut from cardboard.**
 
-![Useless box](https://github.com/MattD18/IDD-Fa18-Lab5/blob/master/IMG_2434.JPG)
+![Useless box](https://github.com/MattD18/IDD-Fa18-Lab5/blob/master/images/IMG_2434.png)
 
 ## Electronics
 
 **c. Functionality is provided by a simple circuit and Arduino board.**
 
-![Circuit](https://github.com/MattD18/IDD-Fa18-Lab5/blob/master/IMG_2431.JPG)
+![Circuit](https://github.com/MattD18/IDD-Fa18-Lab5/blob/master/images/IMG_2431.png)
 
 ## Putting it All Together
 
@@ -24,13 +24,13 @@
 
 2. "Bopper" design file is [here](https://github.com/MattD18/IDD-Fa18-Lab5/blob/master/bopper.ai), along with a close-up pictured below:
 
-![Bopper Close-Up](https://github.com/MattD18/IDD-Fa18-Lab5/blob/master/IMG_2441.JPG)
+![Bopper Close-Up](https://github.com/MattD18/IDD-Fa18-Lab5/blob/master/images/IMG_2441.png)
 
 3. Finished Useless Box:
 
 ![Useless box](https://github.com/MattD18/IDD-Fa18-Lab5/blob/master/IMG_2434.JPG)
 
-![Useless box exposed](https://github.com/MattD18/IDD-Fa18-Lab5/blob/master/IMG_2437.JPG)
+![Useless box exposed](https://github.com/MattD18/IDD-Fa18-Lab5/blob/master/images/IMG_2437.png)
 
 4. The box in action!
 
