@@ -28,7 +28,7 @@
 
 3. Finished Useless Box:
 
-![Useless box](https://github.com/MattD18/IDD-Fa18-Lab5/blob/master/IMG_2434.JPG)
+![Useless box](https://github.com/MattD18/IDD-Fa18-Lab5/blob/master/IMG_2434.png)
 
 ![Useless box exposed](https://github.com/MattD18/IDD-Fa18-Lab5/blob/master/images/IMG_2437.png)
 
