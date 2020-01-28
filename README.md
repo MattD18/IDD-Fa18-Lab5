@@ -2,23 +2,19 @@
 
 ## 3D Printing
 
-**a. Include a photo of your printed part here.**
+**a. Custom mount to hold servo motor.**
 
 ![Servo Mount](https://github.com/MattD18/IDD-Fa18-Lab5/blob/master/IMG_2429.JPG)
 
-**b. Include `.stl` or `.svg` files for your bopper, if 3d-printing.**
-
-N/A, bopper was laser cut.
-
 ## Laser Cutting
 
-**b. Include a photo of your box here.**
+**b. Useless box shell was laster cut from cardboard.**
 
 ![Useless box](https://github.com/MattD18/IDD-Fa18-Lab5/blob/master/IMG_2434.JPG)
 
 ## Electronics
 
-**c. Upload code & a photo of your electronic circuit here.**
+**c. Functionality is provided by a simple circuit and Arduino board.**
 
 ![Circuit](https://github.com/MattD18/IDD-Fa18-Lab5/blob/master/IMG_2431.JPG)
 
@@ -26,8 +22,7 @@ N/A, bopper was laser cut.
 
 ## Putting it All Together
 
-Include here:
-1. Your Arduino code.
+1. Arduino source code:
 
 ![Code](https://github.com/MattD18/IDD-Fa18-Lab5/blob/master/useless_box.ino)
 
